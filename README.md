@@ -12,3 +12,5 @@ proxy 配置 socket5 127.0.0.1:1080
 
 完成
 
+### 进入虚拟环境
+source venv/bin/activate
